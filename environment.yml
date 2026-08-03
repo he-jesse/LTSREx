@@ -1,0 +1,25 @@
+name: interpretable_manifolds
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python
+  - scikit-learn
+  - scipy
+  - ipykernel
+  - matplotlib
+  - scikit-image
+  - umap-learn
+  - gudhi
+  - conda-forge::cupy
+  - conda-forge::seaborn
+  - conda-forge::scs
+  - hyperspy
+  - scikit-bio
+  - biom-format==2.1.17
+  - pandas
+  - numba
+  - opentsne
+  - conda-forge::r-base
+  - conda-forge::rpy2
+prefix: /home/jesse/miniconda3/envs/interpretable_manifolds
