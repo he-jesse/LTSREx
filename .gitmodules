@@ -1,0 +1,3 @@
+[submodule "LEGO"]
+	path = LEGO
+	url = https://github.com/chiggum/LEGO.git
